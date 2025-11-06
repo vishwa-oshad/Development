@@ -26,7 +26,7 @@
 
 
 
-### Database setup
+### 🗄️ 3. Database & Migrations
 
     php artisan config:clear
     php artisan config:cache
