@@ -1,8 +1,7 @@
-Perfect ✅ — let’s go step by step!
 
-Here’s **every Laravel command** you need — from installation to daily development, debugging, database, and deployment — **fully explained and grouped** for you.
+# Laravel
 
----
+Here’s **every Laravel command** you need — from installation to daily development, debugging, database, and deployment.
 
 ## 🧱 1. **Project Setup**
 
