@@ -1,4 +1,3 @@
-
 # Laravel
 
 Here’s **every Laravel command** you need — from installation to daily development, debugging, database, and deployment.
@@ -966,3 +965,27 @@ Make it executable:
 chmod +x setup.sh
 ./setup.sh
 ```
+
+## Vscode Extension
+
+<img width="635" height="141" alt="image" src="https://github.com/user-attachments/assets/a6449ee8-25b8-4d1c-a70c-e29972d05814" />
+<img width="746" height="155" alt="image" src="https://github.com/user-attachments/assets/6832e74c-7532-4fee-a35a-3cfadd5be48e" />
+<img width="545" height="154" alt="image" src="https://github.com/user-attachments/assets/46dcbd88-a85c-4efa-ae2b-cd19e5ca5cb9" />
+<img width="501" height="156" alt="image" src="https://github.com/user-attachments/assets/7f350196-3943-48e4-8b5c-50f88fd1d2ba" />
+<img width="622" height="148" alt="image" src="https://github.com/user-attachments/assets/14d5a869-7317-4c6d-9c55-b410a56470b1" />
+<img width="635" height="148" alt="image" src="https://github.com/user-attachments/assets/e9d787d6-82f6-4884-9eb4-486edabf6015" />
+<img width="515" height="152" alt="image" src="https://github.com/user-attachments/assets/57e0b166-4c37-4a2d-a884-bfb1887e910b" />
+<img width="657" height="134" alt="image" src="https://github.com/user-attachments/assets/94cd87e7-bd1d-4e24-964c-14b554d9c384" />
+
+
+
+
+
+
+
+
+
+
+
+
+
