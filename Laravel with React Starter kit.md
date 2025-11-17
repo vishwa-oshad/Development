@@ -32,7 +32,7 @@
 | Clear route cache      | `php artisan route:clear`  |                                     |
 | Clear view cache       | `php artisan view:clear`   |                                     |
 
-## Laravel +  Rect Architecture 
+## Laravel MVC Architecture for React Starter Kit
 
 <img width="724" height="560" alt="image" src="https://github.com/user-attachments/assets/a5f1b86e-d44b-468a-8240-3944aa49502d" />
 
