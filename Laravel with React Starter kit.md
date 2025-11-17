@@ -40,18 +40,19 @@
 
     php artisan make:controller ControllerName
 
+### Model + data table
 
+     php artisan make:model Product -m
+     
 
 ### 🗄️ Database & Migrations
 
-    php artisan config:clear
-    php artisan config:cache
-    
     php artisan migrate
     php artisan migrate:fresh --seed
     php artisan storage:link
 
-
+    php artisan config:clear
+    php artisan config:cache
 
 
 
