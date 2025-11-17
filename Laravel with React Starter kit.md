@@ -68,8 +68,13 @@
 ## Library:
 
 <img width="644" height="132" alt="image" src="https://github.com/user-attachments/assets/38b01d17-c912-481b-8854-44d3753b8d5b" />
+https://lucide.dev/
 
+<img width="650" height="125" alt="image" src="https://github.com/user-attachments/assets/4fe3935e-63a6-4bf8-909b-985886ee918f" />
+https://inertiajs.com/
 
+<img width="662" height="131" alt="image" src="https://github.com/user-attachments/assets/65e61548-3cb2-45e0-9a8f-e83264f36f21" />
+https://ui.shadcn.com/
 
 
 
