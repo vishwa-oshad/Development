@@ -1,13 +1,23 @@
-# React with Laravel - Ceygenic
+# Laravel + React Starter Kit
 
-## 🧱 1. Project Setup (after clone)
+## Create Project 
+
+    laravel new project-name
+
+    select 
+        ->> React ->> laravel --> 0 
+        
+
+## 🧱 Project Setup (after clone)
 
     composer install
     composer update
   
     npm install
+    npm run build 
 
-### 🧩 2. Environment Setup
+
+### 🧩 Environment Setup
 ### File edited
 
   .env-example
@@ -23,10 +33,7 @@
 | Clear view cache       | `php artisan view:clear`   |                                     |
 
 
-
-
-
-### 🗄️ 3. Database & Migrations
+### 🗄️ Database & Migrations
 
     php artisan config:clear
     php artisan config:cache
@@ -40,7 +47,11 @@
 
     composer run dev
 
-    
+## Extention: 
 
-      composer run dev
+<img width="470" height="150" alt="image" src="https://github.com/user-attachments/assets/3444e8fa-9e9a-4983-b12d-a9400ee38936" />
+<img width="614" height="126" alt="image" src="https://github.com/user-attachments/assets/f12495ec-3b65-4bf9-a193-c2fd40d834c6" />
+
+
+
 
