@@ -55,6 +55,11 @@
     php artisan config:cache
 
 
+### Drop entire database + recreate
+
+    php artisan db:wipe
+    php artisan migrate
+
 
 ### Run:
 
