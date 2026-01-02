@@ -16,7 +16,13 @@
   https://developer.android.com/studio#command-line-tools-only
   
   https://developer.android.com/tools
+
+## computer on install Done ✅
+
+    flutter doctor
   
+  <img width="918" height="267" alt="image" src="https://github.com/user-attachments/assets/ad495e2f-4f45-4827-9c0a-af67102e00a6" />
+
 
 ## Basic of Dart
 ## Development Environment
