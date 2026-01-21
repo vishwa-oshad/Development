@@ -2,11 +2,29 @@
 
   This is a developer for a helpful Stack 
 
-## Java Institute
-  
-  ### Java web (EE)
-  
+## Web development
 
-## Ceygenic 
+    php web -> Laravel 
+    Laravel + React Starter kit
+    Java web (EE)
+    Spring Boot
 
-  ### React with Laravel project 
+## Mobile App development
+
+    Android
+    ISO
+    React Native 
+    Flutter
+
+
+
+## Ceygenic - web 
+
+    React + Laravel project 
+    React + Spring Boot
+
+
+## Ceygenic - mobile app development 
+
+    React Native 
+    Flutter 
